@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRc6TWiQr6zAb5IXlhbe3vie+p8i7XEqDzXZzmqtbdEjKwNXLDcGDz1NI1xPyQe8ag+SLFBVFhsl5y8NgiTaOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\kuliah semester 2\\pbo\\penjualan laptop\\penjualan laptop\\penjualan laptop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
